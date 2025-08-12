@@ -1,7 +1,8 @@
 # Nicollas Gempka Carvalho 👨‍💻
 
-![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnicollas-gempka-carvalho-31611a217%2F)
-![Instagram Badge](https://img.shields.io/badge/Instagram-%23a43c94?style=flat&link=https%3A%2F%2Fwww.instagram.com%2F_gempka041)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gempka041)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GempkA041)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicollas-gempka-carvalho-31611a217/)
 ---
 
 ## Hi there 👋,
